@@ -1,0 +1,16 @@
+[
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "Surprisingly Awesome One-Hour Spicy Sesame, Aubergine and Courgette Ramen",
+        "page": 142,
+        "ingredients": ["zucchini","vinegar","sugar","salt","chilli flake","eggplant","vegetable oil","sesame oil","sichuan pepper","clove","ginger","soy sauce","mirin","dashi","tahini","miso","cabbage","ramen noodle","sesame seed","scallion"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "Ramen for Faye Wong",
+        "page": 144,
+        "ingredients": ["tofu", "sake", "cornstarch", "sesame seed", "vegetable oil", "nori", "dashi", "soy sauce", "mirin", "daikon", "mushroom", "cabbage", "ramen noodle", "scallion", "chilli", "lemon"],
+        "roniaapproved": false
+    }
+]
