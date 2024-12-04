@@ -47,8 +47,8 @@ func loadRecipes(filename string) {
 	}
 }
 
-func getUserIngredients() []string {
-	var Ingredients []string
+func getUserIngredients() map[string]int {
+	Ingredients := make(map[string]int)
 
 	reader := bufio.NewReader(os.Stdin)
 	fmt.Print("How many items would you like to input? ")
@@ -66,7 +66,13 @@ func getUserIngredients() []string {
 		fmt.Printf("Enter item %d: ", i+1)
 		ingredient, _ := reader.ReadString('\n')
 		ingredient = ingredient[:len(ingredient)-1] // remove newline character
-		Ingredients = append(Ingredients, strings.ToLower(ingredient))
+		Ingredients[strings.ToLower(ingredient)] = 0
 	}
 	return Ingredients
+}
+
+func findBestMatches(map[string]int) {
+	for i := 0; i < len(recipes); i++ {
+		return
+	}
 }
