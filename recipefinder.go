@@ -35,9 +35,9 @@ func main() {
 	fmt.Print("The program will return the recipes that are the best match (include the most ingredients you requested).\n\n")
 	fmt.Print("All ingredient names entered should be singular.\n\n")
 	userIngredients, numRecipes := getUserIngredients() // get user input
-	fmt.Print(userIngredients)
-	fmt.Print(numRecipes)
-	//findBestMatches(userIngredients,numRecipes)
+	//fmt.Print(userIngredients)
+	//fmt.Print(numRecipes)
+	fmt.Print(findBestMatches(userIngredients, numRecipes))
 }
 
 func loadRecipes(filename string) {
@@ -96,17 +96,24 @@ func getUserIngredients() (map[string]int, int) {
 	return Ingredients, numRecipes
 }
 
-func findBestMatches(userIngredients map[string]int, numRecipes int) {
-	BestIndices := make([]Match, numRecipes) // make the list which with the indices of the best recipes with the most matches
+func findBestMatches(userIngredients map[string]int, numRecipes int) []Match {
+	BestMatches := make([]Match, numRecipes) // make the list which with the indices of the best recipes with the most matches
 
 	for r := 0; r < len(recipes); r++ { // for each recipe...
+		numMatches := 0
 		for i := 0; i < len(recipes[r].Ingredients); i++ { // for each ingredient...
-			numMatches := 0
 			_, ok := userIngredients[recipes[r].Ingredients[i]] // if the ingredient is one of those requested by the user...
 			if ok {
 				numMatches++ // then increase the current number of matches for this recipe
 			}
 		}
-		// TBD check if numMatches > the values in BestIndices & if it is, then replace the highest value that it is greater than
+		for i := 0; i < numRecipes; i++ { // for each best match recipe so far
+			if numMatches > BestMatches[i].NumMatches { // if the new recipe has more ingredient matches than any of the current best matches
+				BestMatches[i].NumMatches = numMatches // update the number of matches
+				BestMatches[i].RecipeIndex = r         // update the recipe index
+				break                                  // only need to replace one "best match" recipe
+			}
+		}
 	}
+	return BestMatches
 }
