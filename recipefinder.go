@@ -1,3 +1,4 @@
+// go run recipefinder.go
 package main
 
 import (
@@ -37,7 +38,9 @@ func main() {
 	userIngredients, numRecipes := getUserIngredients() // get user input
 	//fmt.Print(userIngredients)
 	//fmt.Print(numRecipes)
-	fmt.Print(findBestMatches(userIngredients, numRecipes))
+	//fmt.Print(findBestMatches(userIngredients, numRecipes))
+	BestMatches := findBestMatches(userIngredients, numRecipes)
+	printBestMatches(BestMatches)
 }
 
 func loadRecipes(filename string) {
@@ -116,4 +119,25 @@ func findBestMatches(userIngredients map[string]int, numRecipes int) []Match {
 		}
 	}
 	return BestMatches
+}
+
+func printBestMatches(BestMatches []Match) {
+	fmt.Print("\n")
+	for m := 0; m < len(BestMatches); m++ { // for each best match...
+		recipe := recipes[BestMatches[m].RecipeIndex] // get the recipe object
+		fmt.Printf("Recipe: %s\n", recipe.Recipe)
+		fmt.Printf("Cookbook: %s\n", recipe.Cookbook)
+		fmt.Printf("Page number: %d\n", recipe.Page)
+		fmt.Printf("Number of ingredient matches: %d\n", BestMatches[m].NumMatches)
+		fmt.Print("Ingredients: ")
+		for i := 0; i < len(recipe.Ingredients); i++ {
+			fmt.Printf("%s", recipe.Ingredients[i])
+			if i != (len(recipe.Ingredients) - 1) {
+				fmt.Print(",")
+			}
+			fmt.Print(" ")
+		}
+		fmt.Printf("\nRonia approved?: %t\n", recipe.RoniaApproved)
+		fmt.Print("\n")
+	}
 }
