@@ -3,14 +3,105 @@
         "cookbook": "Vegan Japaneasy",
         "recipe": "Surprisingly Awesome One-Hour Spicy Sesame, Aubergine and Courgette Ramen",
         "page": 142,
-        "ingredients": ["zucchini","vinegar","sugar","salt","chilli flake","eggplant","vegetable oil","sesame oil","sichuan pepper","clove","ginger","soy sauce","mirin","dashi","tahini","miso","cabbage","ramen noodle","sesame seed","scallion"],
+        "ingredients": ["zucchini","vinegar","sugar","salt","chilli flake","eggplant","vegetable oil","sesame oil","sichuan pepper","clove","ginger","soy sauce","mirin","dashi","tahini","miso","cabbage","ramen","sesame seed","scallion"],
         "roniaapproved": true
     },
     {
         "cookbook": "Vegan Japaneasy",
-        "recipe": "Ramen for Faye Wong",
+        "recipe": "'Ramen for Faye Wong' (Mushroom Dashi Ramen with Vegetables and Fried Tofu)",
         "page": 144,
-        "ingredients": ["tofu", "sake", "cornstarch", "sesame seed", "vegetable oil", "nori", "dashi", "soy sauce", "mirin", "daikon", "mushroom", "cabbage", "ramen noodle", "scallion", "chilli", "lemon"],
+        "ingredients": ["tofu", "sake", "cornstarch", "sesame seed", "vegetable oil", "nori", "dashi", "soy sauce", "mirin", "daikon", "mushroom", "cabbage", "ramen", "scallion", "chilli", "lemon"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "French Onion Ramen",
+        "page": 146,
+        "ingredients": ["olive oil", "red onion", "brown onion", "salt", "sugar", "garlic", "sake", "red wine", "dashi", "bay leave", "thyme", "pepper", "soy sauce", "balsamic vinegar", "mirin", "marmite", "cornstarch", "spinach", "cabbage", "ramen", "scallion", "bamboo", "sesame oil", "cheese", "bread"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "Curry Ramen",
+        "page": 149,
+        "ingredients": ["dashi", "coconut oil", "vegetable oil", "onion", "banana", "tomato paste", "peanut butter", "flour", "curry powder", "garam masala", "soy sauce", "chilli sauce", "spinach", "cabbage", "bean sprout", "ramen", "scallion", "sesame seed", "red pickled ginger"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "Ramen Salad",
+        "page": 150,
+        "ingredients": ["tomato", "soy sauce", "sugar", "sesame oil", "arugula", "cucumber", "carrot", "ramen", "avocado", "sesame seed", "tahini", "soy milk", "sesame oil", "vinegar", "salt", "dashi"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "Chilled Soba with Tsuyu (Zaru Soba)",
+        "page": 152,
+        "ingredients": ["soba", "nori", "scallion", "dashi", "soy sauce", "mirin"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "Yakisoba",
+        "page": 153,
+        "ingredients": ["oil", "onion", "carrot", "cabbage", "mushroom", "sesame oil", "dashi powder", "soy sauce", "ketchup", "mirin", "sake", "worcestershire sauce", "white pepper", "ramen", "red pickled ginger", "scallion"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "Pesto Udon",
+        "page": 156,
+        "ingredients": ["pine nut", "garlic", "basil", "white miso", "olive oil", "udon", "pepper"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "Iced Summer Somen with Lemon",
+        "page": 158,
+        "ingredients": ["lemon", "dashi", "soy sauce", "mirin", "cucumber", "green apple", "radish", "scallion", "pea shoot", "ginger", "somen", "sesame seed", "sesame oil"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "Sweet Soy Portobello Mushroom and Onion Bowl",
+        "page": 160,
+        "ingredients": ["oil", "onion", "mushroom", "ginger", "soy sauce", "cornstarch", "sake", "mirin", "brown sugar", "dashi", "rice", "scallion", "red pickled ginger"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "'Chinese-Style' Stir-Fried Vegetable Bowl",
+        "page": 162,
+        "ingredients": ["vegetable oil", "onion", "carrot", "mushroom", "garlic", "cabbage", "bean sprout", "scallion", "dashi", "cornstarch", "sake", "soy sauce", "sesame oil", "salt", "white pepper", "snow pea", "red picked ginger", "ramen"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "'Fridge Drawer' Fried Rice",
+        "page": 164,
+        "ingredients": ["oil", "onion", "garlic", "vegetable", "rice", "soy sauce", "sesame oil", "mirin", "dashi powder", "scallion", "pepper", "white sesame seed"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "Mixed Vegetable Rice (Takikomi Gohan)",
+        "page": 165,
+        "ingredients": ["rice", "dashi", "soy sauce", "mirin", "sake", "carrot", "turnip", "mushroom", "edamame", "wakame"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "'Primavera' Fried Rice",
+        "page": 166,
+        "ingredients": ["oil", "onion", "garlic", "ginger", "pea", "asparagus", "rice", "salt", "mirin", "dashi powder", "lemon", "scallion", "white pepper", "white sesame seed", "wild garlic"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Vegan Japaneasy",
+        "recipe": "Rough Night Rice",
+        "page": 168,
+        "ingredients": ["oil", "onion", "garlic", "bok choi", "cabbage", "sausage", "kimchi", "rice", "soy sauce", "mirin", "sesame seed", "jalapeno", "scallion", "lime", "chilli sauce", "mayo"],
         "roniaapproved": false
     }
 ]

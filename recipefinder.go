@@ -34,7 +34,7 @@ func main() {
 	fmt.Print("\nThis program allows you to search for recipes that contain specific ingredients.\n\n")
 	fmt.Print("You can choose how many ingredients to enter and how many recipes you'd like to recieve.\n\n")
 	fmt.Print("The program will return the recipes that are the best match (include the most ingredients you requested).\n\n")
-	fmt.Print("All ingredient names entered should be singular.\n\n")
+	fmt.Print("All ingredient names entered should be singular (e.g., mushroom instead of mushrooms).\n\n")
 	userIngredients, numRecipes := getUserIngredients() // get user input
 	//fmt.Print(userIngredients)
 	//fmt.Print(numRecipes)
