@@ -29,6 +29,7 @@ var recipes []Recipe
 
 func main() {
 	loadRecipes("recipes.json")
+	//fmt.Print(len(recipes))
 	//fmt.Print(recipes[0])
 
 	fmt.Print("\nThis program allows you to search for recipes that contain specific ingredients.\n\n")

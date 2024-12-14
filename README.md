@@ -17,4 +17,7 @@ When entering ingredients, please make sure to follow these rules to get the bes
 - Try not to be too specific (e.g., garlic clove -> garlic, light brown sugar -> brown sugar)
     - This rule really depends on the ingredients, if you aren't sure you can look in recipes.json to see what I did
 
+Misc. Notes:
+- Water, salt, and black pepper are not included as ingredients for the sake of brevity
+
 Feedback and ideas are always welcome!
