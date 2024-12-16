@@ -14,13 +14,13 @@ The information printed includes the:
 
 When entering ingredients, please make sure to follow these rules to get the best-possible results:
 - All ingredients should always be plural, even if it sounds weird (e.g., peas -> pea, mushrooms -> mushroom)
-- Try not to be too specific (e.g., garlic clove -> garlic, light brown sugar -> brown sugar, firm silken tofu -> tofu)
+- Try not to be *too* specific (e.g., garlic clove -> garlic, light brown sugar -> brown sugar)
     - This rule really depends on the ingredients, if you aren't sure you can look in recipes.json to see what I did
 
 Misc. Notes:
 - Water, salt, and black pepper are not included as ingredients for the sake of brevity
 - Optional ingredients are not included
-- Mushrooms *are* listed by the specific type (i.e., shiitake mushroom)
+- Mushrooms are listed by the specific type (e.g., shiitake mushroom)
 - Caster sugar, white sugar, granulated sugar, etc. are all just sugar
 - Silken tofu, firm tofu, etc. are all just tofu
 - Brown/yellow onions are both just onion, but red onion and scallion are seperate
@@ -29,5 +29,7 @@ Misc. Notes:
 - If a recipe calls for a generic oil it is not included, but if a specific oil is listed in the recipe, then it is included
 - Mayonnaise is shortened to mayo
 - Brown rice, jasmine rice, etc. are all just rice
+- Chickpea is listed as garbanzo bean (but it's chickpea flour, not garbanzo flour)
+- Squash are listed by the specific type (e.g., acorn squash)
 
 Feedback and ideas are always welcome!

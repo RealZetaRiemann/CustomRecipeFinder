@@ -122,7 +122,7 @@
         "cookbook": "Vegetarian Planet",
         "recipe": "Golden Rice Cakes with Sweet Potato-Ginger Sauce",
         "page": 229,
-        "ingredients": ["canola oil", "garlic", "rice", "sweet potato", "coconut milk", "ginger", "carrot", "red pepper", "scallion", "egg"],
+        "ingredients": ["garlic", "rice", "sweet potato", "coconut milk", "ginger", "carrot", "red pepper", "scallion", "egg"],
         "roniaapproved": true
     },
     {
@@ -136,7 +136,7 @@
         "cookbook": "Vegetarian Planet",
         "recipe": "Couscous with Red Pepper, Chickpea, and Almond Stew",
         "page": 254,
-        "ingredients": ["olive oil", "onion", "garlic", "carrot", "red pepper", "tomato", "red wine", "paprika", "cinnamon", "garbanzo bean", "chickpea", "almond", "lemon juice", "cilantro", "couscous"],
+        "ingredients": ["olive oil", "onion", "garlic", "carrot", "red pepper", "tomato", "red wine", "paprika", "cinnamon", "garbanzo bean", "almond", "lemon", "cilantro", "couscous"],
         "roniaapproved": false
     },
     {
@@ -164,14 +164,14 @@
         "cookbook": "Vegetarian Planet",
         "recipe": "Spinach-Ricotta Dumplings in Portobello Tomato Sauce",
         "page": 312,
-        "ingredients": ["olive oil", "garlic", "spinach", "ricotta", "egg", "baking powder", "flour", "parmesan", "mushroom", "tomato", "basil"],
+        "ingredients": ["olive oil", "garlic", "spinach", "ricotta", "egg", "baking powder", "flour", "parmesan", "portobello mushroom", "tomato", "basil"],
         "roniaapproved": true
     },
     {
         "cookbook": "Vegetarian Planet",
         "recipe": "Zucchini Pakoras with Scallion Raita",
         "page": 331,
-        "ingredients": ["plain yogurt", "scallion", "sugar", "cumin", "mustard seed", "chickpea flour", "oil", "baking soda", "zucchini"],
+        "ingredients": ["plain yogurt", "scallion", "sugar", "cumin", "mustard seed", "chickpea flour", "baking soda", "zucchini"],
         "roniaapproved": true
     },
     {
@@ -192,7 +192,7 @@
         "cookbook": "Love and Lemons",
         "recipe": "Coconut Rice with Brussels Sprouts",
         "page": 63,
-        "ingredients": ["rice", "coconut milk", "coconut oil", "brussels sprout", "scallion", "basil", "mint", "avocado", "sesame seed", "sriracha", "lime", "tamari", "garlic", "lime juice", "rice vinegar", "sugar", "red pepper flake"],
+        "ingredients": ["rice", "coconut milk", "coconut oil", "brussels sprout", "scallion", "basil", "mint", "avocado", "sesame seed", "sriracha", "tamari", "garlic", "lime", "rice vinegar", "sugar", "red pepper flake"],
         "roniaapproved": true
     },
     {
@@ -213,7 +213,7 @@
         "cookbook": "Love and Lemons",
         "recipe": "Grilled Eggplant and Summer Veggie Pizza",
         "page": 139,
-        "ingredients": ["eggplant", "zucchini", "red pepper", "mushroom", "olive oil", "pasta", "pickled onion", "basil", "red pepper flake", "sherry vinegar", "oregano", "paprika"],
+        "ingredients": ["eggplant", "zucchini", "red pepper", "cremini mushroom", "olive oil", "pasta", "pickled onion", "basil", "red pepper flake", "sherry vinegar", "oregano", "paprika"],
         "roniaapproved": false
     }
 ]
