@@ -108,7 +108,7 @@
         "cookbook": "Vegetarian Planet",
         "recipe": "Home-style Brown Rice Pilaf",
         "page": 202,
-        "ingredients": ["rice", "butter", "onion", "garlic", "carrot", "mushroom", "garbanzo bean", "chickpea", "egg", "parsley", "cilantro", "cashew", "almond", "soy sauce"],
+        "ingredients": ["rice", "butter", "onion", "garlic", "carrot", "mushroom", "garbanzo bean", "egg", "parsley", "cilantro", "cashew", "almond", "soy sauce"],
         "roniaapproved": false
     },
     {
