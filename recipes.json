@@ -180,5 +180,40 @@
         "page": 410,
         "ingredients": ["olive oil", "corn tortilla", "potato", "red pepper", "summer squash", "zucchini", "garlic", "ricotta"],
         "roniaapproved": true
+    },
+    {
+        "cookbook": "Love and Lemons",
+        "recipe": "Creamy Broccoli Soup",
+        "page": 55,
+        "ingredients": ["leek", "olive oil", "garlic", "broccoli", "white wine vinegar", "vegetable broth", "coconut milk", "spinach"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Love and Lemons",
+        "recipe": "Coconut Rice with Brussels Sprouts",
+        "page": 63,
+        "ingredients": ["rice", "coconut milk", "coconut oil", "brussels sprout", "scallion", "basil", "mint", "avocado", "sesame seed", "sriracha", "lime", "tamari", "garlic", "lime juice", "rice vinegar", "sugar", "red pepper flake"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Love and Lemons",
+        "recipe": "Roasted Cauliflower and Red Pepper Soup",
+        "page": 101,
+        "ingredients": ["cauliflower", "onion", "garlic", "olive oil", "cashew", "white miso paste", "cumin", "coriander", "cayenne", "red pepper"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Love and Lemons",
+        "recipe": "Green Gazpacho",
+        "page": 129,
+        "ingredients": ["cucumber", "yellow tomato", "scallion", "garlic", "cilantro", "sherry vinegar", "olive oil", "sunflower seed"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Love and Lemons",
+        "recipe": "Grilled Eggplant and Summer Veggie Pizza",
+        "page": 139,
+        "ingredients": ["eggplant", "zucchini", "red pepper", "mushroom", "olive oil", "pasta", "pickled onion", "basil", "red pepper flake", "sherry vinegar", "oregano", "paprika"],
+        "roniaapproved": false
     }
 ]
