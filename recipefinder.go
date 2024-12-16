@@ -15,7 +15,7 @@ type Recipe struct {
 	Cookbook      string
 	Recipe        string
 	Page          int
-	Ingredients   []string
+	Ingredients   []string // might be better to make this a map and the user entered ingredients a slice?
 	RoniaApproved bool
 }
 
