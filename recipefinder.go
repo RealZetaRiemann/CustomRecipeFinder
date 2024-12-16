@@ -82,8 +82,12 @@ func getUserIngredients() (map[string]int, int) {
 	for i := 0; i < numIngredients; i++ {
 		fmt.Printf("Enter ingredient %d: ", i+1)
 		ingredient, _ := reader.ReadString('\n')
-		ingredient = ingredient[:len(ingredient)-1]  // remove newline character
-		Ingredients[strings.ToLower(ingredient)] = 0 // convert all ingredients to lowercase (all lowercase in json)
+		ingredient = ingredient[:len(ingredient)-1] // remove newline character
+		// if the user input a specific mushroom, also include the "generic" mushroom
+		if MushroomClause(ingredient) {
+			Ingredients["mushroom"] = 0
+		}
+		Ingredients[strings.ToLower(ingredient)] = 0 // add ingredient to map & convert to lowercase (all lowercase in json)
 	}
 
 	// get number of "best-match" recipes to find and return
@@ -141,4 +145,14 @@ func printBestMatches(BestMatches []Match) {
 		fmt.Printf("\nRonia approved?: %t\n", recipe.RoniaApproved)
 		fmt.Print("\n")
 	}
+}
+
+// MushroomClause checks if the user input a specific type of mushroom...
+// then the function should also search for the "generic" mushroom
+func MushroomClause(userInput string) bool {
+	userInput = strings.ToLower(userInput)
+	if strings.Contains(userInput, "mushroom") && userInput != "mushroom" {
+		return true
+	}
+	return false
 }
