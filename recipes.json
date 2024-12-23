@@ -215,5 +215,299 @@
         "page": 139,
         "ingredients": ["eggplant", "zucchini", "red pepper", "cremini mushroom", "olive oil", "pasta", "pickled onion", "basil", "red pepper flake", "sherry vinegar", "oregano", "paprika"],
         "roniaapproved": false
+    },
+    {
+        "cookbook": "Love and Lemons",
+        "recipe": "Kale & Fennel Vegetable Soup",
+        "page": 149,
+        "ingredients": ["olive oil", "onion", "fennel", "garlic", "carrot", "thyme", "cabbage", "white wine", "vegetable broth", "parmesan", "cannellini bean", "kale", "lemon"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Love and Lemons",
+        "recipe": "Quinoa Tacos with Quick Pickled Onions",
+        "page": 183,
+        "ingredients": ["olive oil", "onion", "garlic", "cumin", "coriander", "quinoa", "black bean", "feta", "lime", "tortilla", "pickled onion", "avocado", "cilantro"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Love and Lemons",
+        "recipe": "Feta & Pea Tendril Omelette",
+        "page": 193,
+        "ingredients": ["egg", "olive oil", "pea shoot", "feta", "pea", "avocado", "red pepper flake"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Love and Lemons",
+        "recipe": "Pea & Sweet Potato Samosas",
+        "page": 195,
+        "ingredients": ["coconut oil", "flour", "baking powder", "coconut milk", "cilantro", "scallion", "ginger", "garlic", "olive oil", "lemon", "honey", "sweet potato", "onion", "curry powder", "cardamom", "red pepper flake", "pea"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Love and Lemons",
+        "recipe": "Roasted Red Pepper and Carrot Soup",
+        "page": 203,
+        "ingredients": ["olive oil", "onion", "garlic", "fennel", "carrot", "thyme", "balsamic vinegar", "red pepper", "cannellini bean", "tomato paste", "vegetable broth", "bread"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Love and Lemons",
+        "recipe": "Heirloom Tomato Panzanella with Fresh Oregano",
+        "page": 249,
+        "ingredients": ["heirloom tomato", "tomato", "red onion", "sherry vinegar", "olive oil", "bread", "garlic", "basil", "oregano"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Love and Lemons",
+        "recipe": "Butternut Squash & Black Bean Enchiladas",
+        "page": 259,
+        "ingredients": ["butternut squash", "olive oil", "scallion", "black bean", "tomato", "garlic", "chipotle pepper", "corn tortilla", "cheddar", "jalapeno", "cilantro", "avocado", "lime"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Love and Lemons",
+        "recipe": "Butternut Squash Risotto & Arancini",
+        "page": 263,
+        "ingredients": ["olive oil", "onion", "butternut squash", "garlic", "rice", "white wine", "vegetable broth", "parmesan", "panko", "tomato sauce", "mozzarella"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Ottolenghi Flavor",
+        "recipe": "Iceberg Wedges with Smoky Eggplant Cream",
+        "page": 38,
+        "ingredients": ["eggplant", "lemon", "garlic", "plain yogurt", "dijon mustard", "olive oil", "almond", "bread", "pumpkin seed", "chilli flake", "lettuce", "parmesan", "radish", "avocado", "chive"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Ottolenghi Flavor",
+        "recipe": "Curried Carrot Mash with Brown Butter",
+        "page": 67,
+        "ingredients": ["chilli", "white wine vinegar", "sugar", "carrot", "olive oil", "ginger", "nigella seed", "fennel seed", "cumin", "curry powder", "cinnamon", "lime", "scallion", "mint"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Ottolenghi Flavor",
+        "recipe": "Lime and Coconut Potato Gratin",
+        "page": 72,
+        "ingredients": ["shallot", "garlic", "olive oil", "potato", "coconut cream", "lime", "vegetable broth", "chilli", "ginger", "scallion"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Ottolenghi Flavor",
+        "recipe": "Chickpea Pancakes with Mango Pickle Yogurt",
+        "page": 91,
+        "ingredients": ["olive oil", "curry leaf", "ginger", "garlic", "chilli", "scallion", "chickpea flour", "cornstarch", "baking powder", "sparkling water", "apple cider vinegar", "cumin", "garam masala", "plain yogurt", "mango", "hot mango pickle", "lime", "sunflower oil"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Ottolenghi Flavor",
+        "recipe": "The Ultimate Roasting-Pan Ragu",
+        "page": 101,
+        "ingredients": ["carrot", "onion", "oyster mushroom", "porcini mushroom", "garlic", "tomato", "olive oil", "miso paste", "harissa", "tomato paste", "soy sauce", "cumin", "brown lentil", "green lentil", "pearl barley", "vegetable broth", "coconut cream", "red wine"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Ottolenghi Flavor",
+        "recipe": "Butternut, Orange, and Sage Galette",
+        "page": 132,
+        "ingredients": ["flour", "polenta", "sage", "sugar", "olive oil", "butter", "butternut squash", "carrot", "caraway seed", "garlic", "shallot", "orange", "maple syrup", "mascarpone", "egg"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Ottolenghi Flavor",
+        "recipe": "Eggplant Dumplings Alla Parmigiana",
+        "page": 156,
+        "ingredients": ["bread", "eggplant", "olive oil", "ricotta", "parmesan", "parsley", "egg", "flour", "garlic", "basil", "tomato", "tomato paste", "sugar", "chilli", "paprika", "oregano", "kalamata olive"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Ottolenghi Flavor",
+        "recipe": "Polenta with Fresh Corn and Braised Eggs",
+        "page": 163,
+        "ingredients": ["corn", "spinach", "parsley", "dill", "cilantro", "scallion", "garlic", "polenta", "parmesan", "whole milk", "vegetable broth", "butter", "feta", "egg", "olive oil", "chilli flake"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Ottolenghi Flavor",
+        "recipe": "Cardamom Tofu with Lime Greens",
+        "page": 172,
+        "ingredients": ["flour", "cornstarch", "cardamom", "sunflower oil", "tofu", "garlic", "chilli", "choy sum", "sriracha", "soy sauce", "lime"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Ottolenghi Flavor",
+        "recipe": "Chaat Masala Potatoes with Yogurt and Tamarind",
+        "page": 193,
+        "ingredients": ["potato", "olive oil", "chaat masala", "turmeric", "cilantro", "chilli", "lime", "tamarind paste", "sugar", "chaat masala", "plain yogurt", "red onion", "chilli", "coriander", "nigella seed"],
+        "roniaapproved": false
+    },
+        {
+        "cookbook": "Ottolenghi Flavor",
+        "recipe": "Eggplant with Herbs and Crispy Garlic",
+        "page": 251,
+        "ingredients": ["eggplant", "olive oil", "garlic", "white wine vinegar", "chilli", "mint", "cilantro", "dill", "lemon"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Ottolenghi Flavor",
+        "recipe": "Fried Onion Rings with Buttermilk and Turmeric",
+        "page": 255,
+        "ingredients": ["garlic", "turmeric", "mirin", "lime", "chilli", "buttermilk", "white wine vinegar", "flour", "nigella seed", "caraway seed", "lime", "onion", "scallion", "sunflower oil"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Ottolenghi Test Kitchen",
+        "recipe": "Cheesy Curried Butter Beans on Toast with Pickled Onion",
+        "page": 18,
+        "ingredients": ["olive oil", "ginger", "garlic", "cumin", "curry powder", "chilli flake", "lima bean", "cilantro", "heavy cream", "cheddar", "bread", "serrano chilli", "red onion", "apple cider vinegar"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Ottolenghi Test Kitchen",
+        "recipe": "One-pot Chickpeas with Carrots, Dates, and Marinated Feta",
+        "page": 38,
+        "ingredients": ["garbanzo bean", "onion", "garlic", "ginger", "serrano chilli", "cilantro", "olive oil", "cumin", "cinnamon", "medjool date", "tomato paste", "carrot", "bay leaf", "baking powder", "lemon", "parsley", "feta", "caraway seed"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Ottolenghi Test Kitchen",
+        "recipe": "Shawarma Cauliflower with Green Tahini",
+        "page": 97,
+        "ingredients": ["olive oil", "paprika", "turmeric", "cumin", "coriander", "allspice", "clove", "apple cider vinegar", "cauliflower", "onion", "red cabbage", "red onion", "lemon", "chilli", "garlic", "tomato paste", "mint", "parsley", "tahini"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Ottolenghi Test Kitchen",
+        "recipe": "Spiced Lentil Pancakes with Mango Salsa and Coconut Chutney",
+        "page": 100,
+        "ingredients": ["split pea", "garlic", "ginger", "turmeric", "coconut oil", "tomato paste", "shredded coconut", "chilli", "lime", "mango", "mint", "cilantro"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Ottolenghi Test Kitchen",
+        "recipe": "Root Vegetables and Harissa Chickpeas with Dukkah",
+        "page": 136,
+        "ingredients": ["celery", "potato", "kabocha", "tomato paste", "olive oil", "vegetable broth", "garbanzo bean", "harissa", "lemon", "dill", "tahini", "plain yogurt", "garlic", "hazelnut", "pine nut", "coriander", "cumin", "sesame seed", "oregano", "paprika"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Ottolenghi Test Kitchen",
+        "recipe": "Dreamy Pasta and Beans with Halloumi and Arugula Pesto",
+        "page": 153,
+        "ingredients": ["olive oil", "garlic", "serrano chilli", "thyme", "cannellini bean", "pasta", "vegetable broth", "lemon", "halloumi", "pine nut", "arugula", "parsley"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Ottolenghi Test Kitchen",
+        "recipe": "Brothy Black-Eyed Peas with Grilled Onion Salsa",
+        "page": 168,
+        "ingredients": ["black-eyed pea", "olive oil", "cinnamon", "bay leaf", "scotch bonnet chilli", "garlic", "allspice", "vegetable stock", "onion", "coriander", "red onion", "tomato", "parsley", "lemon"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Ottolenghi Test Kitchen",
+        "recipe": "Asparagus Cannelloni with Yogurt Bechamel and Cilantro Pesto",
+        "page": 175,
+        "ingredients": ["lasagna", "olive oil", "asparagus", "cilantro", "hazelnut", "coriander", "lemon", "garlic", "plain yogurt", "whole milk", "egg", "cornstarch", "pecorino", "mozzarella"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Ottolenghi Test Kitchen",
+        "recipe": "Baked Polenta with Feta, Bechamel, and Za'atar Tomatoes",
+        "page": 185,
+        "ingredients": ["butter", "flour", "whole milk", "garlic", "polenta", "pecorino", "feta", "oregano", "tomato", "olive oil", "balsamic vinegar", "za'atar", "sugar", "parsley", "oregano"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Ottolenghi Test Kitchen",
+        "recipe": "Creamy Gazpacho with Ginger-Garlic Oil",
+        "page": 188,
+        "ingredients": ["tomato", "pine nut", "red pepper", "red onion", "chilli", "paprika", "cumin", "cucumber", "ginger", "clove", "olive oil", "cilantro"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "The Heart of the Plate",
+        "recipe": "Lablabi (Tunisian Chickpea Soup)",
+        "page": 30,
+        "ingredients": ["garbanzo bean", "garlic", "olive oil", "onion", "cumin", "lemon"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "The Heart of the Plate",
+        "recipe": "Fresh Corn Soup",
+        "page": 32,
+        "ingredients": ["butter", "onion", "corn"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "The Heart of the Plate",
+        "recipe": "Tomato-Coconut Soup with Indian Spices",
+        "page": 44,
+        "ingredients": ["onion", "cumin", "coriander", "turmeric", "ground fennel", "cardamom", "clove", "allspice", "ginger", "garlic", "tomato", "coconut milk", "brown sugar", "lemon"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "The Heart of the Plate",
+        "recipe": "Spinach-Basmati Soup with Yogurt",
+        "page": 45,
+        "ingredients": ["olive oil", "onion", "cumin", "turmeric", "garlic", "spinach", "vegetable broth", "rice", "plain yogurt"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "The Heart of the Plate",
+        "recipe": "Tortilla Soup",
+        "page": 46,
+        "ingredients": ["olive oil", "onion", "chilli", "chilli powder", "cumin", "garlic", "vegetable broth", "tomato", "cilantro", "lime", "avocado", "corn tortilla", "red pepper flake"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "The Heart of the Plate",
+        "recipe": "Grilled Bread and Kale Salad with Red Onions, Walnuts, and Figs",
+        "page": 71,
+        "ingredients": ["fig", "lemon", "parmesan", "bread", "kale", "olive oil", "red onion", "balsamic vinegar", "walnut"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "The Heart of the Plate",
+        "recipe": "Scattered Sushi-Style Rice Salad (Gomokuzushi)",
+        "page": 112,
+        "ingredients": ["green bean", "pea", "summer squash", "rice", "rice vinegar", "mirin", "pickled ginger", "peanut oil", "egg", "carrot", "cucumber", "snow pea", "scallion", "sesame seed"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "The Heart of the Plate",
+        "recipe": "Orange Rice",
+        "page": 190,
+        "ingredients": ["rice", "olive oil", "onion", "paprika", "garlic", "carrot", "orange pepper", "lemon", "red pepper flake"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "The Heart of the Plate",
+        "recipe": "Spiced Basmati Pilaf with Nuts and Raisins",
+        "page": 192,
+        "ingredients": ["rice", "onion", "garlic", "ginger", "cumin", "almond", "raisin", "lemon", "orange"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "The Heart of the Plate",
+        "recipe": "Risotto Primavera with Asparagus and Grean Peas",
+        "page": 208,
+        "ingredients": ["butter", "asparagus", "garlic", "pea", "vegetable broth", "olive oil", "onion", "rice", "white wine", "parmesan"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "The Heart of the Plate",
+        "recipe": "Farfalle and Rapini in Creamy Walnut Sauce",
+        "page": 260,
+        "ingredients": ["walnut", "garlic", "white wine vinegar", "olive oil", "milk", "pasta", "broccoli"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "The Heart of the Plate",
+        "recipe": "Caramelized Onion Frittata with Artichoke Hearts, Zucchini, and Goat Cheese",
+        "page": 284,
+        "ingredients": ["egg", "olive oil", "onion", "thyme", "sage", "zucchini", "artichoke", "white wine vinegar", "goat cheese", "parmesan"],
+        "roniaapproved": false
     }
 ]
