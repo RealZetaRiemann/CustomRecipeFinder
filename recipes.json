@@ -10,14 +10,14 @@
         "cookbook": "Vegan Japaneasy",
         "recipe": "Surprisingly Awesome One-Hour Spicy Sesame, Aubergine and Courgette Ramen",
         "page": 142,
-        "ingredients": ["zucchini","vinegar","sugar","chilli flake","eggplant","vegetable oil","sesame oil","sichuan pepper","ginger","soy sauce","mirin","dashi","tahini","miso","cabbage","ramen","sesame seed","scallion"],
+        "ingredients": ["zucchini","vinegar","sugar","chili flake","eggplant","vegetable oil","sesame oil","sichuan pepper","ginger","soy sauce","mirin","dashi","tahini","miso","cabbage","ramen","sesame seed","scallion"],
         "roniaapproved": true
     },
     {
         "cookbook": "Vegan Japaneasy",
         "recipe": "'Ramen for Faye Wong' (Mushroom Dashi Ramen with Vegetables and Fried Tofu)",
         "page": 144,
-        "ingredients": ["tofu", "sake", "cornstarch", "sesame seed", "vegetable oil", "nori", "dashi", "soy sauce", "mirin", "daikon", "enoki mushroom", "shimeji mushroom", "cabbage", "ramen", "shiitake mushroom", "scallion", "chilli", "lemon"],
+        "ingredients": ["tofu", "sake", "cornstarch", "sesame seed", "vegetable oil", "nori", "dashi", "soy sauce", "mirin", "daikon", "enoki mushroom", "shimeji mushroom", "cabbage", "ramen", "shiitake mushroom", "scallion", "chili", "lemon"],
         "roniaapproved": false
     },
     {
@@ -31,7 +31,7 @@
         "cookbook": "Vegan Japaneasy",
         "recipe": "Curry Ramen",
         "page": 149,
-        "ingredients": ["dashi", "coconut oil", "vegetable oil", "onion", "banana", "tomato paste", "peanut butter", "flour", "curry powder", "garam masala", "soy sauce", "chilli sauce", "spinach", "cabbage", "bean sprout", "ramen", "scallion", "sesame seed", "red pickled ginger"],
+        "ingredients": ["dashi", "coconut oil", "vegetable oil", "onion", "banana", "tomato paste", "peanut butter", "flour", "curry powder", "garam masala", "soy sauce", "chili sauce", "spinach", "cabbage", "bean sprout", "ramen", "scallion", "sesame seed", "red pickled ginger"],
         "roniaapproved": true
     },
     {
@@ -101,7 +101,7 @@
         "cookbook": "Vegan Japaneasy",
         "recipe": "Rough Night Rice",
         "page": 168,
-        "ingredients": ["red onion", "garlic", "bok choi", "cabbage", "sausage", "kimchi", "rice", "soy sauce", "mirin", "sesame seed", "scallion", "lime", "chilli sauce", "mayo"],
+        "ingredients": ["red onion", "garlic", "bok choi", "cabbage", "sausage", "kimchi", "rice", "soy sauce", "mirin", "sesame seed", "scallion", "lime", "chili sauce", "mayo"],
         "roniaapproved": false
     },
     {
@@ -276,28 +276,28 @@
         "cookbook": "Ottolenghi Flavor",
         "recipe": "Iceberg Wedges with Smoky Eggplant Cream",
         "page": 38,
-        "ingredients": ["eggplant", "lemon", "garlic", "plain yogurt", "dijon mustard", "olive oil", "almond", "bread", "pumpkin seed", "chilli flake", "lettuce", "parmesan", "radish", "avocado", "chive"],
+        "ingredients": ["eggplant", "lemon", "garlic", "plain yogurt", "dijon mustard", "olive oil", "almond", "bread", "pumpkin seed", "chili flake", "lettuce", "parmesan", "radish", "avocado", "chive"],
         "roniaapproved": false
     },
     {
         "cookbook": "Ottolenghi Flavor",
         "recipe": "Curried Carrot Mash with Brown Butter",
         "page": 67,
-        "ingredients": ["chilli", "white wine vinegar", "sugar", "carrot", "olive oil", "ginger", "nigella seed", "fennel seed", "cumin", "curry powder", "cinnamon", "lime", "scallion", "mint"],
+        "ingredients": ["chili", "white wine vinegar", "sugar", "carrot", "olive oil", "ginger", "nigella seed", "fennel seed", "cumin", "curry powder", "cinnamon", "lime", "scallion", "mint"],
         "roniaapproved": false
     },
     {
         "cookbook": "Ottolenghi Flavor",
         "recipe": "Lime and Coconut Potato Gratin",
         "page": 72,
-        "ingredients": ["shallot", "garlic", "olive oil", "potato", "coconut cream", "lime", "vegetable broth", "chilli", "ginger", "scallion"],
+        "ingredients": ["shallot", "garlic", "olive oil", "potato", "coconut cream", "lime", "vegetable broth", "chili", "ginger", "scallion"],
         "roniaapproved": false
     },
     {
         "cookbook": "Ottolenghi Flavor",
         "recipe": "Chickpea Pancakes with Mango Pickle Yogurt",
         "page": 91,
-        "ingredients": ["olive oil", "curry leaf", "ginger", "garlic", "chilli", "scallion", "chickpea flour", "cornstarch", "baking powder", "sparkling water", "apple cider vinegar", "cumin", "garam masala", "plain yogurt", "mango", "hot mango pickle", "lime", "sunflower oil"],
+        "ingredients": ["olive oil", "curry leaf", "ginger", "garlic", "chili", "scallion", "chickpea flour", "cornstarch", "baking powder", "sparkling water", "apple cider vinegar", "cumin", "garam masala", "plain yogurt", "mango", "hot mango pickle", "lime", "sunflower oil"],
         "roniaapproved": false
     },
     {
@@ -318,70 +318,70 @@
         "cookbook": "Ottolenghi Flavor",
         "recipe": "Eggplant Dumplings Alla Parmigiana",
         "page": 156,
-        "ingredients": ["bread", "eggplant", "olive oil", "ricotta", "parmesan", "parsley", "egg", "flour", "garlic", "basil", "tomato", "tomato paste", "sugar", "chilli", "paprika", "oregano", "kalamata olive"],
+        "ingredients": ["bread", "eggplant", "olive oil", "ricotta", "parmesan", "parsley", "egg", "flour", "garlic", "basil", "tomato", "tomato paste", "sugar", "chili", "paprika", "oregano", "kalamata olive"],
         "roniaapproved": true
     },
     {
         "cookbook": "Ottolenghi Flavor",
         "recipe": "Polenta with Fresh Corn and Braised Eggs",
         "page": 163,
-        "ingredients": ["corn", "spinach", "parsley", "dill", "cilantro", "scallion", "garlic", "polenta", "parmesan", "whole milk", "vegetable broth", "butter", "feta", "egg", "olive oil", "chilli flake"],
+        "ingredients": ["corn", "spinach", "parsley", "dill", "cilantro", "scallion", "garlic", "polenta", "parmesan", "whole milk", "vegetable broth", "butter", "feta", "egg", "olive oil", "chili flake"],
         "roniaapproved": true
     },
     {
         "cookbook": "Ottolenghi Flavor",
         "recipe": "Cardamom Tofu with Lime Greens",
         "page": 172,
-        "ingredients": ["flour", "cornstarch", "cardamom", "sunflower oil", "tofu", "garlic", "chilli", "choy sum", "sriracha", "soy sauce", "lime"],
+        "ingredients": ["flour", "cornstarch", "cardamom", "sunflower oil", "tofu", "garlic", "chili", "choy sum", "sriracha", "soy sauce", "lime"],
         "roniaapproved": false
     },
     {
         "cookbook": "Ottolenghi Flavor",
         "recipe": "Chaat Masala Potatoes with Yogurt and Tamarind",
         "page": 193,
-        "ingredients": ["potato", "olive oil", "chaat masala", "turmeric", "cilantro", "chilli", "lime", "tamarind paste", "sugar", "chaat masala", "plain yogurt", "red onion", "chilli", "coriander", "nigella seed"],
+        "ingredients": ["potato", "olive oil", "chaat masala", "turmeric", "cilantro", "chili", "lime", "tamarind paste", "sugar", "chaat masala", "plain yogurt", "red onion", "chili", "coriander", "nigella seed"],
         "roniaapproved": false
     },
         {
         "cookbook": "Ottolenghi Flavor",
         "recipe": "Eggplant with Herbs and Crispy Garlic",
         "page": 251,
-        "ingredients": ["eggplant", "olive oil", "garlic", "white wine vinegar", "chilli", "mint", "cilantro", "dill", "lemon"],
+        "ingredients": ["eggplant", "olive oil", "garlic", "white wine vinegar", "chili", "mint", "cilantro", "dill", "lemon"],
         "roniaapproved": true
     },
     {
         "cookbook": "Ottolenghi Flavor",
         "recipe": "Fried Onion Rings with Buttermilk and Turmeric",
         "page": 255,
-        "ingredients": ["garlic", "turmeric", "mirin", "lime", "chilli", "buttermilk", "white wine vinegar", "flour", "nigella seed", "caraway seed", "lime", "onion", "scallion", "sunflower oil"],
+        "ingredients": ["garlic", "turmeric", "mirin", "lime", "chili", "buttermilk", "white wine vinegar", "flour", "nigella seed", "caraway seed", "lime", "onion", "scallion", "sunflower oil"],
         "roniaapproved": true
     },
     {
         "cookbook": "Ottolenghi Test Kitchen",
         "recipe": "Cheesy Curried Butter Beans on Toast with Pickled Onion",
         "page": 18,
-        "ingredients": ["olive oil", "ginger", "garlic", "cumin", "curry powder", "chilli flake", "lima bean", "cilantro", "heavy cream", "cheddar", "bread", "serrano chilli", "red onion", "apple cider vinegar"],
+        "ingredients": ["olive oil", "ginger", "garlic", "cumin", "curry powder", "chili flake", "lima bean", "cilantro", "heavy cream", "cheddar", "bread", "serrano chili", "red onion", "apple cider vinegar"],
         "roniaapproved": false
     },
     {
         "cookbook": "Ottolenghi Test Kitchen",
         "recipe": "One-pot Chickpeas with Carrots, Dates, and Marinated Feta",
         "page": 38,
-        "ingredients": ["garbanzo bean", "onion", "garlic", "ginger", "serrano chilli", "cilantro", "olive oil", "cumin", "cinnamon", "medjool date", "tomato paste", "carrot", "bay leaf", "baking powder", "lemon", "parsley", "feta", "caraway seed"],
+        "ingredients": ["garbanzo bean", "onion", "garlic", "ginger", "serrano chili", "cilantro", "olive oil", "cumin", "cinnamon", "medjool date", "tomato paste", "carrot", "bay leaf", "baking powder", "lemon", "parsley", "feta", "caraway seed"],
         "roniaapproved": false
     },
     {
         "cookbook": "Ottolenghi Test Kitchen",
         "recipe": "Shawarma Cauliflower with Green Tahini",
         "page": 97,
-        "ingredients": ["olive oil", "paprika", "turmeric", "cumin", "coriander", "allspice", "clove", "apple cider vinegar", "cauliflower", "onion", "red cabbage", "red onion", "lemon", "chilli", "garlic", "tomato paste", "mint", "parsley", "tahini"],
+        "ingredients": ["olive oil", "paprika", "turmeric", "cumin", "coriander", "allspice", "clove", "apple cider vinegar", "cauliflower", "onion", "red cabbage", "red onion", "lemon", "chili", "garlic", "tomato paste", "mint", "parsley", "tahini"],
         "roniaapproved": false
     },
     {
         "cookbook": "Ottolenghi Test Kitchen",
         "recipe": "Spiced Lentil Pancakes with Mango Salsa and Coconut Chutney",
         "page": 100,
-        "ingredients": ["split pea", "garlic", "ginger", "turmeric", "coconut oil", "tomato paste", "shredded coconut", "chilli", "lime", "mango", "mint", "cilantro"],
+        "ingredients": ["split pea", "garlic", "ginger", "turmeric", "coconut oil", "tomato paste", "shredded coconut", "chili", "lime", "mango", "mint", "cilantro"],
         "roniaapproved": false
     },
     {
@@ -395,14 +395,14 @@
         "cookbook": "Ottolenghi Test Kitchen",
         "recipe": "Dreamy Pasta and Beans with Halloumi and Arugula Pesto",
         "page": 153,
-        "ingredients": ["olive oil", "garlic", "serrano chilli", "thyme", "cannellini bean", "pasta", "vegetable broth", "lemon", "halloumi", "pine nut", "arugula", "parsley"],
+        "ingredients": ["olive oil", "garlic", "serrano chili", "thyme", "cannellini bean", "pasta", "vegetable broth", "lemon", "halloumi", "pine nut", "arugula", "parsley"],
         "roniaapproved": true
     },
     {
         "cookbook": "Ottolenghi Test Kitchen",
         "recipe": "Brothy Black-Eyed Peas with Grilled Onion Salsa",
         "page": 168,
-        "ingredients": ["black-eyed pea", "olive oil", "cinnamon", "bay leaf", "scotch bonnet chilli", "garlic", "allspice", "vegetable stock", "onion", "coriander", "red onion", "tomato", "parsley", "lemon"],
+        "ingredients": ["black-eyed pea", "olive oil", "cinnamon", "bay leaf", "scotch bonnet chili", "garlic", "allspice", "vegetable stock", "onion", "coriander", "red onion", "tomato", "parsley", "lemon"],
         "roniaapproved": false
     },
     {
@@ -423,7 +423,7 @@
         "cookbook": "Ottolenghi Test Kitchen",
         "recipe": "Creamy Gazpacho with Ginger-Garlic Oil",
         "page": 188,
-        "ingredients": ["tomato", "pine nut", "red pepper", "red onion", "chilli", "paprika", "cumin", "cucumber", "ginger", "clove", "olive oil", "cilantro"],
+        "ingredients": ["tomato", "pine nut", "red pepper", "red onion", "chili", "paprika", "cumin", "cucumber", "ginger", "clove", "olive oil", "cilantro"],
         "roniaapproved": false
     },
     {
@@ -458,7 +458,7 @@
         "cookbook": "The Heart of the Plate",
         "recipe": "Tortilla Soup",
         "page": 46,
-        "ingredients": ["olive oil", "onion", "chilli", "chilli powder", "cumin", "garlic", "vegetable broth", "tomato", "cilantro", "lime", "avocado", "corn tortilla", "red pepper flake"],
+        "ingredients": ["olive oil", "onion", "chili", "chili powder", "cumin", "garlic", "vegetable broth", "tomato", "cilantro", "lime", "avocado", "corn tortilla", "red pepper flake"],
         "roniaapproved": false
     },
     {
