@@ -507,7 +507,133 @@
         "cookbook": "The Heart of the Plate",
         "recipe": "Caramelized Onion Frittata with Artichoke Hearts, Zucchini, and Goat Cheese",
         "page": 284,
-        "ingredients": ["egg", "olive oil", "onion", "thyme", "sage", "zucchini", "artichoke", "white wine vinegar", "goat cheese", "parmesan"],
+        "ingredients": ["egg", "olive oil", "onion", "thyme", "sage", "zucchini", "artichoke heart", "white wine vinegar", "goat cheese", "parmesan"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Aubergine Stuffed with Orzo, Zucchini, and Tomatoes",
+        "page": 15,
+        "ingredients": ["eggplant", "olive oil", "zucchini", "garlic", "basil", "orzo", "chili", "tomato", "scarmorza"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Aubergine, Red Pepper, and Chickpea Stew",
+        "page": 20,
+        "ingredients": ["eggplant", "olive oil", "garlic", "red onion", "chili", "celery", "red pepper", "potato", "tomato", "oregano", "garbanzo bean", "sour cream", "lemon", "parsley"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Baked Eggs with Zucchini and Spinach",
+        "page": 38,
+        "ingredients": ["olive oil", "zucchini", "garlic", "spinach", "egg", "creme fraiche", "tomato paste", "oregano", "bread"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Rigatoni with Zucchini, Mascarpone, and Pecorino",
+        "page": 46,
+        "ingredients": ["olive oil", "garlic", "shallot", "zucchini", "basil", "mascarpone", "pasta", "pecorino"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Green Asparagus Salad with Roasted Salted Almonds",
+        "page": 62,
+        "ingredients": ["asparagus", "green bean", "pea", "spinach", "mint", "orange", "honey", "balsamic vinegar", "olive oil", "almond"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Asparagus, Leek, and Potato Soup with Pesto",
+        "page": 68,
+        "ingredients": ["asparagus", "butter", "thyme", "leek", "potato", "heavy cream", "garlic", "basil", "pine nut", "parmesan", "olive oil"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Artichoke Dip with Crispy Farinata",
+        "page": 96,
+        "ingredients": ["artichoke heart", "garlic", "parsley", "parmesan", "lemon", "arugula", "olive oil", "chickpea flour", "rosemary"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Farfalle, Lentils, and Jerusalem Artichokes with Creme Fraiche",
+        "page": 108,
+        "ingredients": ["lentil", "olive oil", "carrot", "celery", "onion", "thyme", "jerusalem artichoke", "creme fraiche", "pasta", "parsley", "parmesan"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Funghi Ripieni",
+        "page": 113,
+        "ingredients": ["portobello mushroom", "olive oil", "thyme", "bread", "parmesan", "garlic", "butter", "parsley", "lemon"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Stuffed and Baked Savoy Cabbage",
+        "page": 131,
+        "ingredients": ["cabbage", "butternut squash", "potato", "olive oil", "leek", "garlic", "portobello mushroom", "chestnut", "thyme", "heavy cream", "parmesan"],
+        "roniaapproved": false
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Broccoli and Fontina Croquettes",
+        "page": 136,
+        "ingredients": ["potato", "fontina", "gruyere", "butter", "egg", "broccoli", "sunflower oil", "lemon", "flour", "bread"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Broccoli, Squash, and Lentil Salad with Walnut Pesto",
+        "page": 149,
+        "ingredients": ["lentil", "butternut squash", "broccoli", "olive oil", "balsamic vinegar", "arugula", "garlic", "walnut", "milk", "parmesan", "lemon", "bread", "parsley"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Tagliatelle with Tomatoes, Zucchini, and Capers",
+        "page": 160,
+        "ingredients": ["zucchini", "olive oil", "garlic", "chili", "tomato", "caper", "pasta", "parsley"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Puff Pastry Pizza",
+        "page": 170,
+        "ingredients": ["olive oil", "garlic", "olive", "caper", "tomato", "oregano", "puff pastry", "flour", "egg", "ricotta", "parmesan"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Cauliflower, Carrot, and Borlotti Bean Soup",
+        "page": 185,
+        "ingredients": ["cauliflower", "carrot", "olive oil", "thyme", "garlic", "celery", "leek", "borlotti bean", "creme fraiche", "parsley"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Swiss Chard and Cannellini Bean Bake",
+        "page": 191,
+        "ingredients": ["swiss chard", "olive oil", "garlic", "chili", "leek", "cannellini bean", "heavy cream", "bread", "thyme", "parmesan"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Squash and Potato Gnocchi with Sage Butter and Truffle Cream",
+        "page": 212,
+        "ingredients": ["olive oil", "butternut squash", "potato", "flour", "egg", "parmesan", "light cream", "garlic", "truffle", "sage", "butter"],
+        "roniaapproved": true
+    },
+    {
+        "cookbook": "Verdura",
+        "recipe": "Grated Potato and Onion Fritters with Salsa Verde",
+        "page": 232,
+        "ingredients": ["potato", "egg", "red onion", "cornstarch", "sunflower oil", "parsley", "arugula", "basil", "mint", "caper", "dijon mustard", "olive oil"],
         "roniaapproved": false
     }
 ]
